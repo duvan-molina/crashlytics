@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "918620779554",
+    "project_id": "crashlytics-1c706",
+    "storage_bucket": "crashlytics-1c706.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918620779554:android:7530422b36524ecf20867b",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918620779554-2jajhclogip8nhcs4n95lhqkrdcc5l1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDchYMjsTEyeWh0GfEniFai_QefkMhdrxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918620779554-2jajhclogip8nhcs4n95lhqkrdcc5l1p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "918620779554-c0hi3c2kskiub2tmcn7ubhce0m6svocs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.awesomeproject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
